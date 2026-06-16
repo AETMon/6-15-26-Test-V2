@@ -5,6 +5,7 @@ void setup() {
     Serial.println("Hello World!");
     Serial.println("Yooooo!");
     Serial.println("This is telly!"); 
+    Serial.println("Galing sa fork");
 }
 
 void loop() {
